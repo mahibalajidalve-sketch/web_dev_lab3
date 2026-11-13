@@ -1,0 +1,57 @@
+body {
+    margin: 30px;
+    line-height: 1.5;
+}
+
+h1 {
+    font-family: Arial;
+    font-size: 50px;
+    color: rgb(63, 31, 247);
+}
+
+h2 {
+    font-family: Arial;
+    font-size: 30px;
+    color: rgb(17, 184, 148);
+}
+
+h3 {
+    font-family: Arial;
+    font-size: 20px;
+    color: rgb(87, 5, 17);
+}
+
+p {
+    font-family:Arial;
+    font-size: 15px;
+    color: rgb(9, 50, 9);
+}
+
+.class1 {
+    font-family:Arial;
+    font-size: 13px;
+    color: rgb(244, 161, 116);
+}
+
+button {
+    font-family: Arial;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(153, 105, 255);
+    padding: 10px 20px;
+}
+
+.card {
+    width: 300px;
+    margin-top: 20px;
+    padding: 20px;
+    border: 2px solid rgb(91, 71, 134);
+}
+
+.card h2 {
+    color: rgb(169, 115, 144);
+}
+
+.card p {
+    color: rgb(91, 43, 43);
+}
